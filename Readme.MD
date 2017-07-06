@@ -5,6 +5,7 @@ Your chief have made a quick check, and in order to allow this tool to grow, we 
 
 Your mission:
 In the next 4 hours, you have to get the current version of the code(located at https://github.com/jgrossrieder/CandidatesInterview), fork it, clean and fix it. The goal is that you do the more you can in this timespan.
+After the 4hours, commit and send us back the link to your fork.
 
 The users currently having this tools are reporting the following issues:
  - When the user add items to the list, the GUI seems to be frozen until the item is appearing in the list
