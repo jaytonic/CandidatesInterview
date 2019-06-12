@@ -6,7 +6,7 @@ This tools only allows our worldwide company, food inc, to share some list of pr
 Your chief have made a quick check, and in order to allow this tool to grow, we have to consolidate what has been done by the traine.
 
 ## Your mission:
-In the next 4 hours, you have to get the current version of the code(located at https://github.com/jgrossrieder/CandidatesInterview), import it in your own github repository, clean and fix it. The goal is that you do the more you can in this timespan.
+In the next 4 hours, you have to get the current version of the code(located at https://github.com/jgrossrieder/CandidatesInterview), import it in your own github repository(**Make sure that you make an initial commit without changing the code**, clean and fix it. The goal is that you do the more you can in this timespan.
 After the 4hours, commit and send us back the link to your repository(Important: Do not fork it as this will provide your work to the other candidates).
 
 The users currently having this tools are reporting the following issues:
@@ -14,7 +14,7 @@ The users currently having this tools are reporting the following issues:
 * When more than one people use the application at the same time it crash(there is a simulator that simulate another user after 20 seconds ), the list doesn't update
 * The application doesn't resize well
  
-Your chief, after his brief investigation, ask you to refactor the code, including:
+Your chief, after his brief investigation, ask you to fix and refactor the code, including:
  - Refactor of the code to match best pratices(WPF and architecture)
  - Refactor the application to be able to add other kind of products in the future without having to change the GUI
  - Make sure that the current code is optimized
