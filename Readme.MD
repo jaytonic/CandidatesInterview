@@ -7,7 +7,7 @@ Your chief have made a quick check, and in order to allow this tool to grow, we 
 
 ## Your mission:
 In the next 4 hours, you have to get the current version of the code(located at https://github.com/jaytonic/CandidatesInterview), import it in your own github repository(**Make sure that you make an initial commit without changing the code**), clean and fix it. The goal is that you do the more you can in this timespan.
-After the 4hours, commit and send us back the link to your repository(Important: Do not fork it as this will provide your work to the other candidates).
+After the 4hours, commit and send us back the link to your repository(**Important: Do not fork it as this will provide your work to the other candidates**).
 
 The users currently having this tools are reporting the following issues:
 * When the user add items to the list, the GUI seems to be frozen until the item is appearing in the list
